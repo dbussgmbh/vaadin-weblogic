@@ -1,0 +1,7 @@
+/target/
+/node_modules/
+/frontend/generated/
+/webpack.config.js
+/webpack.generated.js
+/pnpmfile.js
+/.npmrc
